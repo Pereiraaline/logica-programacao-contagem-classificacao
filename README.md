@@ -9,8 +9,11 @@ O sistema deve funconar da segiuinte forma:
     considere a quantidade de alunos presentes na sala, percorra do zero até o número total
     e retorne os seguintes resultados: se o número for par escreva par e o número correspondente; e  se o número for ímpar, escreva ímpar e o número correspondente;
     e, se o número for zero escreva zero.
+
 Para criação desse cadastro você como programador deverá solucionar os seguintes desafios:
-    aplicar técnicas de programação e ferramentas para o desenvolvimento do código.
-    aplicar a linguagem de programação JavaScript para implementar o sistema.
+
+    Aplicar técnicas de programação e ferramentas para o desenvolvimento do código.
+    
+    Aplicar a linguagem de programação JavaScript para implementar o sistema.
 
  
